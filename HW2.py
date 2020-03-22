@@ -15,4 +15,5 @@ def quadratic(a,b,c):
         x1=(-b+math.sqrt(root))/2*a
         x2=(-b-math.sqrt(root))/2*a
         return x1,x2
+#example
 print(quadratic(1,0,4))
