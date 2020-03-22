@@ -50,3 +50,53 @@ print(f'{s4:>10}')
 
 a=123
 type(123)
+
+import math
+print(math.pi)
+print(math.sqrt(85))
+
+import random
+print(random.random())
+
+random.choice([1, 2, 3, 4])
+
+age=20
+if age >= 21:
+    print('Yes, you can.')
+else:
+    print('Sorry.')
+
+True and True
+not True
+True and False
+False and False
+not False
+5>3 and 3>1
+True or True
+True or False
+False or False
+
+#define a function
+def print_twice(whatever):
+    print(whatever)
+    print(whatever)
+
+#call a function
+
+print_twice('Thanks for Columbia Offer!')
+
+def my_abs(number):
+    """
+    returns absolute value of any number.
+    number:an int.
+    """
+    #the above is called docstring.
+    if number <0:
+        return 0-number
+    else:
+        return number
+
+b=-42
+abs_b = my_abs(b)
+print(abs_b)
+
