@@ -67,6 +67,12 @@ ord('A')
 
 
 #Exercise 6
+
+
+In choosing the color for the carpet, should one go with coffee, to cover spills from having too little, or burgundy, to cover spills from having too much?
+Tim Rolfe Spokane, WA
+
+
 encrypted_msg = "'g fmnc wms bgblr rpylqjyrc gr zw fylb. rfyrq ufyr amknsrcpq ypc dmp. bmgle gr gl zw fylb gq glcddgagclr ylb rfyr'q ufw rfgq rcvr gq qm jmle. sqgle qrpgle.kyicrpylq() gq pcamkkclbcb. lmu ynnjw ml rfc spj."
 
 encrypted_msg ='map'
